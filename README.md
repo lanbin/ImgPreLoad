@@ -6,10 +6,12 @@ This can do the pre-loading of imgs, and set the imgs on the center of container
 It's require jQuery.js (>1.7)
 
 use it like this:
-
-.. code::html
 	
 	<div id="imgBox">
+		<img src="b.gif" origin_src="http://xxx/yyy/zzz.jpg" />
+		<img src="b.gif" origin_src="http://xxx/yyy/zzz.jpg" />
+		<img src="b.gif" origin_src="http://xxx/yyy/zzz.jpg" />
+		<img src="b.gif" origin_src="http://xxx/yyy/zzz.jpg" />
 		<img src="b.gif" origin_src="http://xxx/yyy/zzz.jpg" />
 	</div>
 
